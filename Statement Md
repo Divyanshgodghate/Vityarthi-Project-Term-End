@@ -1,1 +1,22 @@
-
+Project Statement: Python CLI Expense Tracker 
+Objective 
+The primary goal of this project is to provide a simple, robust, and platform-independent command
+line interface (CLI) solution for personal financial tracking. It allows users to easily log, view, and 
+analyze their daily or monthly expenditures. 
+Core Technology 
+The application is developed entirely in Python and leverages the standard library modules, including 
+csv and datetime, ensuring high portability and minimal dependencies. 
+Key Features 
+1. Data Persistence: Expenses are stored locally in a machine-readable CSV file (expenses.csv), 
+providing a persistent record that can also be easily imported into spreadsheet software for 
+deeper analysis. 
+2. Transaction Management: Users can quickly add new expenses by providing the date, 
+category, amount, and an optional description. 
+3. Reporting and Analysis: The application generates a comprehensive summary report that 
+displays the total expenditure and provides a categorized financial breakdown, showing the 
+percentage contribution of each spending category to the total. 
+4. Interface: The application features a clean, menu-driven CLI for easy navigation and 
+interaction. 
+Target Audience 
+This tool is ideal for individuals seeking a straightforward, non-web-based method to maintain an 
+accurate ledger of their expenses without relying on complex external software or cloud services.
